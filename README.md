@@ -1,42 +1,47 @@
 <h1>Introductory SQL Queries</h1>
 Given the scenario, add the the directed queries to the "answers" directory's files.
 
-##Creating databases
+**Creating databases**
+
 Write the correct SQL statement to create a new database called myNewDB.
 
-#####(Add your query to the file exercise1.sql)
+*(Add your query to the file exercise1.sql)*
 
-##Deleting databases
+**Deleting databases**
+
 Write the correct SQL statement to delete a database named myNewDB.
 
-#####(Add your query to the file exercise2.sql)
+*(Add your query to the file exercise2.sql)*
 
-##Creating tables
+**Creating tables**
+
 Write the correct SQL statement to create a new table called Users, with an int field called UserID, and the following varchar fields of size 255: LastName, FirstName, Address, City
 
-#####(Add your query to the file exercise3.sql)
+*(Add your query to the file exercise3.sql)*
 
-##Deleting tables
+**Deleting tables**
+
 Write the correct SQL statement to delete a table called Users.
 
-#####(Add your query to the file exercise4.sql)
+*(Add your query to the file exercise4.sql)*
 
 
 Use the TRUNCATE statement to delete all data inside a table.
 
-#####(Add your query to the file exercise5.sql)
+*(Add your query to the file exercise5.sql)*
 
-##Altering tables
+**Altering tables**
 
 Add a column of type DATE called Birthday.
 
-#####(Add your query to the file exercise6.sql)
+*(Add your query to the file exercise6.sql)*
 
 Delete the column Birthday from the Users table.
 
-#####(Add your query to the file exercise7.sql)
+*(Add your query to the file exercise7.sql)*
   
-##Inserting records
+
+#Inserting records
 
 Insert a new record in the Students table.
 
@@ -61,28 +66,29 @@ G13RB
 (Add your query to the file exercise8.sql)
 
 #Selecting Records
-##Where
+
+***Where***
 
 Use the NOT keyword to select all records in the Students table where City is NOT "Philadelphia".
 
-#####(Add your query to the file exercise9.sql)
+*(Add your query to the file exercise9.sql)*
 
 Select all records in the Students table where the City column has the value 'Philadelphia' or 'Trenton'.
 
-#####(Add your query to the file exercise10.sql)
+*(Add your query to the file exercise10.sql)*
 
 ##Order By
 Select all records from the Students table, sort the result alphabetically by the column City.
 
-#####(Add your query to the file exercise11.sql)
+*(Add your query to the file exercise11.sql)*
 
 Select all records from the Students table, sort the result reversed alphabetically by the column City.
 
-#####(Add your query to the file exercise12.sql)
+*(Add your query to the file exercise12.sql)*
 
 Select all records from the Students table, sort the result alphabetically, first by the column Country, then, by the column City.
 
-#####(Add your query to the file exercise13.sql)
+*(Add your query to the file exercise13.sql)*
 
 ##Null values
 Select all records from the Students where the PostalCode column is empty.

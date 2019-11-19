@@ -77,7 +77,7 @@ Select all records in the Students table where the City column has the value 'Ph
 
 *(Add your query to the file exercise10.sql)*
 
-##Order By
+## Order By
 Select all records from the Students table, sort the result alphabetically by the column City.
 
 *(Add your query to the file exercise11.sql)*

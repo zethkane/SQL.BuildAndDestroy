@@ -1,4 +1,4 @@
-#Introductory SQL Queries
+<h1>Introductory SQL Queries</h1>
 Given the scenario, add the the directed queries to the "answers" directory's files.
 
 ##Creating databases

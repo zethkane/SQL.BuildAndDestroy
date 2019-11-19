@@ -67,7 +67,7 @@ G13RB
 
 ## Selecting Records
 
-***Where***
+###Where
 
 Use the NOT keyword to select all records in the Students table where City is NOT "Philadelphia".
 
@@ -77,7 +77,7 @@ Select all records in the Students table where the City column has the value 'Ph
 
 *(Add your query to the file exercise10.sql)*
 
-## Order By
+### Order By
 Select all records from the Students table, sort the result alphabetically by the column City.
 
 *(Add your query to the file exercise11.sql)*
@@ -90,7 +90,7 @@ Select all records from the Students table, sort the result alphabetically, firs
 
 *(Add your query to the file exercise13.sql)*
 
-## Null values
+### Null values
 Select all records from the Students where the PostalCode column is empty.
 
 *(Add your query to the file exercise14.sql)*

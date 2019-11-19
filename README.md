@@ -1,25 +1,25 @@
-<h1>Introductory SQL Queries</h1>
+# Introductory SQL Queries
 Given the scenario, add the the directed queries to the "answers" directory's files.
 
-**Creating databases**
+## Creating databases
 
 Write the correct SQL statement to create a new database called myNewDB.
 
 *(Add your query to the file exercise1.sql)*
 
-**Deleting databases**
+## Deleting databases
 
 Write the correct SQL statement to delete a database named myNewDB.
 
 *(Add your query to the file exercise2.sql)*
 
-**Creating tables**
+## Creating tables
 
 Write the correct SQL statement to create a new table called Users, with an int field called UserID, and the following varchar fields of size 255: LastName, FirstName, Address, City
 
 *(Add your query to the file exercise3.sql)*
 
-**Deleting tables**
+## Deleting tables
 
 Write the correct SQL statement to delete a table called Users.
 
@@ -30,7 +30,7 @@ Use the TRUNCATE statement to delete all data inside a table.
 
 *(Add your query to the file exercise5.sql)*
 
-**Altering tables**
+## Altering tables
 
 Add a column of type DATE called Birthday.
 
@@ -41,7 +41,7 @@ Delete the column Birthday from the Users table.
 *(Add your query to the file exercise7.sql)*
   
 
-#Inserting records
+## Inserting records
 
 Insert a new record in the Students table.
 
@@ -65,7 +65,7 @@ G13RB
 
 (Add your query to the file exercise8.sql)
 
-#Selecting Records
+## Selecting Records
 
 ***Where***
 
@@ -90,34 +90,34 @@ Select all records from the Students table, sort the result alphabetically, firs
 
 *(Add your query to the file exercise13.sql)*
 
-##Null values
+## Null values
 Select all records from the Students where the PostalCode column is empty.
 
-#####(Add your query to the file exercise14.sql)
+*(Add your query to the file exercise14.sql)*
 
 Select all records from the Students where the PostalCode column is NOT empty.
 
-#####(Add your query to the file exercise15.sql)
+*(Add your query to the file exercise15.sql)*
 
 
-##Updating records
+## Updating records
 Update the City column of all records in the Students table and set it to Edinburgh.
 
-#####(Add your query to the file exercise16.sql)
+*(Add your query to the file exercise16.sql)*
  
  Set the value of the City columns to 'Edinburgh', but only the ones where the Country column has the value "Scotland".
 
-#####(Add your query to the file exercise17.sql)
+*(Add your query to the file exercise17.sql)*
  
 Update the City value and the Country value to Edinburgh, Scotland for the Student whose ID is 35.
 
-#####(Add your query to the file exercise18.sql)
+*(Add your query to the file exercise18.sql)*
 
-##Deleting Records
+## Deleting Records
 Delete all the records from the Students table where the Country value is 'Scotland'.
 
-#####(Add your query to the file exercise19.sql)
+*(Add your query to the file exercise19.sql)*
  
 Delete all the records from the Students table.
 
-#####(Add your query to the file exercise20.sql)
+*(Add your query to the file exercise20.sql)*

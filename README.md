@@ -3,13 +3,13 @@ Given the scenario, add the the directed queries to the "answers" directory's fi
 
 ## Creating databases
 
-Write the correct SQL statement to create a new database called myNewDB.
+Write the correct SQL statement to create a new database called **myNewDB**.
 
 *(Add your query to the file exercise1.sql)*
 
 ## Deleting databases
 
-Write the correct SQL statement to delete a database named myNewDB.
+Write the correct SQL statement to delete a database named **myNewDB**.
 
 *(Add your query to the file exercise2.sql)*
 

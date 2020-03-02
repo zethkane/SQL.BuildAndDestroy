@@ -1,5 +1,6 @@
 # Build and Destroy: Introductory SQL Queries
-Given the scenario, add the the directed queries to the "answers" directory's files.
+
+Given the scenarios, add the the directed queries to the "answers" directory's files.
 
 ## Creating databases
 

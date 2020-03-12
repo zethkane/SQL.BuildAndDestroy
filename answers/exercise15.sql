@@ -1,2 +1,3 @@
-UPDATE Students
-SET City = "Edinburgh";
+SELECT PostalCode
+FROM Students
+WHERE PostalCode != null;
